@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+    <lastBuildDate>Thu, 4 Aug 2022 10:39:59 GMT</lastBuildDate>
+    <publisherUrl>https://www.galaxus.ch/</publisherUrl>
+    <publisher>Digitec Galaxus AG</publisher>
+   <expectedJobCount><![CDATA[3]]></expectedJobCount><!--Missing documentation, I guess this is the number of jobs below?-->
+    <job>
+        <company><![CDATA[Digitec Galaxus AG]]></company>
+        <JobId><![CDATA[1327]]></JobId><!--"The unique ID used by to reference the job within system", unique within DG or within LinkedIn? This would be the DG id-->
+        <title><![CDATA[Junior Category Manager]]></title>
+        <description><![CDATA[<p>Unser Sortiment von morgen gestalten? Die neusten Produkte jagen? Millionenumsätze verantworten?</p>
+			<p>Wenn du gerade dein Studium abgeschlossen hast, dich für den Onlinehandel interessierst und ein Flair für Zahlen und Daten hast, dann bewirb dich bei uns als Junior Category Manager.<br>
+			Das Category Management bei Digitec Galaxus verantwortet die kommerziellen Kernfunktionen unserer Online Shops in der Schweiz, Deutschland und Österreich und ist direkt zuständig für den budgetierten Umsatz, das entsprechende Wachstum und die erzielten Margen über unser gesamtes Produktportfolio.</p>
+			<h2>Das machst du</h2>
+				Als Junior Category Manager hast du bei uns die Wahl - du kannst in drei verschiedenen Rollen einsteigen:
+			<h3>Category Business Manager</h3>
+			<ul>
+				<li>du bist verantwortlich für den gesamten Einkauf und die Angebotsgestaltung unseres Sortiments</li>
+				<li>du handelst Einkaufskonditionen mit strategischen Lieferanten aus und bist verantwortlich für laufende Optimierung und das Controlling</li>
+				<li>Bei Aktivitäten und Produktlaunches verhandelst du Preise und Mengen für spannende Aktionen und sorgst dafür, dass wir Neuheiten stets als Erste zeigen</li>
+			</ul>
+			<h3>Portfolio Development Manager</h3>
+			<ul>
+				<li>Wenn du nicht gerade auf der Jagd nach neuen Produkten und Trends bist, beschäftigst du dich zusätzlich mit der Analyse der Product Content KPI's</li>
+				<li>du bist verantwortlich dafür, dass wir ein breites und tiefes Sortiment anbieten und hierfür mit den richtigen Lieferanten und Marktplatzhändlern zusammenarbeiten.</li>
+				<li>hierfür identifizierst du Sortimentslücken und suchst und überzeugst neue Partner von uns</li>
+			</ul>
+			<h3>Category Development Manager</h3>				
+			<ul>
+				<li>du übernimmst die komplette Verantwortung für das Thema Partner Development</li>
+				<li>du treibst die Automatisierung voran und ermöglichst, dass unsere Prozesse im Wareneingang und Accounting skalierbar sind</li>
+				<li>du schulst unsere Partner und bist Entwickler wie Sanitäter für die Schnittstellen zu unseren Partnern</li>
+			</ul>
+			<h2>Das bringst du mit</h2>
+			<ul>
+				<li>Ein Bachelor- oder Masterabschluss vorzugsweise in wirtschaftlicher oder technischer Richtung (Uni oder FH)</li>
+				<li>Grosses Interesse für E-Commerce und erste Erfahrung im Umgang mit Zahlen und Daten</li>
+				<li>Initiativgeist, überzeugendes Auftreten und Durchsetzungsvermögen</li>
+				<li>Analytische Denk- und strukturierte Arbeitsweise</li>
+				<li>Leistungsbereitschaft, Begeisterungsfähigkeit und Experimentierfreude</li>
+				<li>Gute mündliche und schriftliche Ausdrucksweise in Deutsch (Fremdsprachen sind ein Plus)</li>
+				<li>Du teilst unsere Werte</li>
+			</ul>
+			<h2>Das erwartet dich</h2>
+			<ul>
+				<li>Du lernst das Category Management in all seinen Facetten kennen und verstehen</li>
+				<li>Wir begleiten dich in der Startphase deiner Karriere und unterstützen dich dabei, eine solide Basis und ein breites Netzwerk aufzubauen</li>
+				<li>Du wählst – jede Funktion bei uns kann in einem 80% - 100% Pensum ausgefüllt werden</li>
+				<li>Du erfasst deine Arbeitszeit – und kompensierst jede einzelne Minute über deiner vertraglich vereinbarten Sollzeit</li>
+				<li>Du gestaltest deine Arbeitszeiten und Orte – Home-Office und Remote Work sind bei uns nicht erst seit Corona ein Thema</li>
+				<li>Fünf Wochen Ferien pro Jahr – du brauchst mehr? Dann besprich deinen unbezahlten Urlaub mit deiner Führungskraft</li>
+				<li>Finanzielle Unterstützung bei Aus- und Weiterbildungen. Damit du dein Know-how laufend erweitern kannst</li>
+				<li>2000 EDU Points im Jahr für dein Selbststudium und deine Garagenprojekte</li>
+				<li>Vergünstigte Mitarbeiterkonditionen in unseren Shops und noch vieles mehr</li>
+			</ul>
+				Wir freuen uns auf deine Bewerbung!
+			]]></description><!--Are linebreaks / formatting allowed? The example didn't have any, but that would make it really hard to read.-->
+        <industry><![CDATA[Retail]]></industry>
+        <applyUrl><![CDATA[https://www.galaxus.ch/de/joboffer/apply/1327]]></applyUrl><!--"URL to which candidates will be directed to apply (typically the URL of the job on the client's website or ATS system).", Does this disable applications directly on LinkedIn?-->
+        <companyId><![CDATA[1727708]]></companyId>
+        <city><![CDATA[Zürich]]></city>
+        <postalCode><![CDATA[8005]]></postalCode>
+        <country><![CDATA[CH]]></country>       
+        <industryCodes>
+            <industryCode><![CDATA[27]]></industryCode>
+        </industryCodes>
+		<jobtype>FULL_TIME</jobtype>
+    </job>
+    <job>
+        <company><![CDATA[Galaxus Deutschland GmbH]]></company>
+        <JobId><![CDATA[1562]]></JobId>
+        <title><![CDATA[PR / Communications Manager mit Spezialisierung auf Social Media]]></title>
+        <description><![CDATA[
+			<p>Willst du Teil einer umtriebigen Kommunikationscrew werden, die spannende Geschichten erzählt, hinter die Kulissen blicken lässt und aufzeigt, warum Galaxus als Onlineshop und Arbeitgeber branchenweit einzigartig ist? Trägst du digitalen Pioniergeist in dir und schlägt dein Herz für die sozialen Medien? Dann sofort anbeißen und jetzt bewerben!</p>
+			<p>Die Aufgaben, die dich in diesem Job erwarten, sind vielseitig und aufregend. Hast du den Mut und die Energie Galaxus im deutschsprachigen Raum als ehrlichsten Onlineshop über die sozialen Medien zu positionieren und kräftig für Traffic und Dialog zu sorgen, dann wirst du dich bei uns wohlfühlen. Wir freuen uns auf deine Bewerbungsunterlagen sowie einige Posts, auf die du stolz bist.</p>
+			<h2>Aufgaben</h2>
+			<ul>
+				<li>Du bist Teil des 9-köpfigen Kommunikationsteams in Hamburg und Zürich und mitverantwortlich für die externe Kommunikation des jungen Online-Warenhauses Galaxus.</li>
+				<li>Du entwickelst spannende Geschichten und setzt diese zielgruppen- und kanalgerecht in den sozialen Medien um.</li>
+				<li>Du magst es komplexe Inhalte zu vereinfachen und graphisch aufzuarbeiten.</li>
+				<li>Als Kreativkopf und guter Netzwerker gelingt es dir, unseren Onlineshop auf den sozialen Medien zu positionieren und Meinungsmacherinnen für unsere Marke zu begeistern.</li>
+				<li>Du liebst es, für dein Unternehmen die Ärmel hochzukrempeln und die Extrameile zu gehen – egal wo es gerade brennt.</li>
+			</ul>
+			<h2>Anforderungen</h2>
+			<ul>
+				<li>Für diesen vielseitigen Job bringst du einen Universitäts- oder Hochschulabschluss mit.</li>
+				<li>In den Bereichen Social Media, PR/Journalismus hast du bereits praktische Erfahrung auf Agentur-, Unternehmens- oder Redaktionsseite gesammelt.</li>
+				<li>Du bewegst dich virtuos durch die sozialen Medien und hast den Drang die nächste virale Story für Insta, TikTok, Facebook oder Twitter zu entwickeln.</li>
+				<li>Du hast einen guter Riecher für starke Geschichten, eine stilsichere Schreibe und Kreativität bei der Inszenierung.</li>
+				<li>Du kennst dich mit dem digitalen Marketing aus, verfügst über handwerkliches Knowhow, um Graphiken zu erstellen, um die Aufmerksamkeit der User zu gewinnen.</li>
+				<li>Du brillierst vor und hinter der Kamera und produzierst trendige Videoformate in Eigenregie.</li>
+				<li>Du liebst den Kontakt mit Journalistinnen und Meinungsmachern und weisst, wie du ihnen unsere Geschichten schmackhaft machst.</li>
+			</ul>
+			<h2>Unser Angebot</h2>
+			<ul>
+				<li>Dich erwartet ein dynamisches, internationales Wachstumsunternehmen mit flachen Hierarchien und kurzen Entscheidungswegen.</li>
+				<li>Hier bekommst du die Chance, die Unternehmenskommunikation aktiv mitzugestalten und neuartige PR-Formate zu entwickeln.</li>
+				<li>Wir sind eine inspirierte und humorvolle Bande, die auf deine Expertise baut und dich bedingungslos unterstützt, wenn dir das Wasser bis zum Hals steht.</li>
+				<li>Die gelebte Du-Kultur vom Praktikanten bis zum CEO ist sinnbildlich dafür, dass wir bei Galaxus über die ohnehin flachen Hierarchiestufen hinweg stets auf Augenhöhe diskutieren.</li>
+			</ul>
+			]]></description>
+        <industry><![CDATA[Retail]]></industry>
+        <applyUrl><![CDATA[https://www.galaxus.de/de/joboffer/apply/1562]]></applyUrl>
+        <companyId><![CDATA[18725463]]></companyId>
+        <city><![CDATA[Hamburg]]></city>
+        <postalCode><![CDATA[22761]]></postalCode>
+        <country><![CDATA[DE]]></country>       
+        <industryCodes>
+            <industryCode><![CDATA[27]]></industryCode>
+        </industryCodes>
+		<jobtype>FULL_TIME</jobtype>
+    </job>
+	 <job>
+        <company><![CDATA[Digitec Galaxus d.o.o.]]></company>
+        <JobId><![CDATA[1627]]></JobId>
+        <title><![CDATA[Agile Coach in People and Organizational Development]]></title>
+        <description><![CDATA[
+			<p>While we are thrilled to be growing so quickly, we are mostly proud of how our employees have grown with us. To support the further growth of both our people and organization we are looking for a specialist in Agile methodologies who is eager to aid us in the challenge of further transforming our local and global operations through continuous implementation of Agile principles./p>
+			<h2>Tasks</h2>
+			<ul>
+				<li>Provide hands-on support in setting processes with focus on agile working methods (Kanban, Scrum)</li>
+				<li>Assist in analyzing deficiencies and implementing tools to improve the effectiveness of OKRs</li>
+				<li>Actively promote the agile mindset companywide through tools and workshops and act as a role model for agile principles</li>
+				<li>Actively contribute to main People and Organizational development focus areas through: Promoting a learning culture and the proactive implementation of changes, identifying growth inhibitors and taking remedial measures Supporting employees to improve their skills and competencies in order to achieve company goals (especially performance, quality, innovation)</li>
+				<li>Promote company values making sure they are the driver of our success</li>
+			</ul>
+			<h2>Requirements</h2>
+			<ul>
+				<li>Experience in Scrum, Kanban, Scaled Agile Framework and OKR Frameworks</li>
+				<li>A proactive approach in motivating individuals and teams to embrace changes and an affinity for transferring knowledge</li>
+				<li>Excellent oral and written English (German or French would be an advantage)</li>
+				<li>Ideally, you have a Computer Science background and experience as an Agile Coach, Product Owner, Agile Project Manager, or similar</li>
+			</ul>
+			<h2>Our offering</h2>
+			<ul>
+				<li>A truly unique company culture and People Experience team</li>
+				<li>Internal & external training opportunities</li>
+				<li>An additional 13th salary</li>
+				<li>25 work days of paid vacation per calendar year</li>
+				<li>Private health insurance</li>
+				<li>Discounts on products available on all digitec and galaxus shops</li>
+				<li>The possibility to work 80% to 100% of the working hours (with the salary adjusted accordingly)</li>
+			</ul>
+			]]></description>
+        <industry><![CDATA[Retail]]></industry>
+        <applyUrl><![CDATA[https://www.galaxus.ch/en/joboffer/1627]]></applyUrl>
+        <companyId><![CDATA[19124854]]></companyId>
+        <city><![CDATA[Belgrad]]></city>
+        <postalCode><![CDATA[11000]]></postalCode>
+        <country><![CDATA[CS]]></country>       
+        <industryCodes>
+            <industryCode><![CDATA[27]]></industryCode>
+        </industryCodes>
+		<jobtype>FULL_TIME</jobtype>
+    </job>
+</source>
